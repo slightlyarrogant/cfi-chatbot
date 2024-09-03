@@ -24,7 +24,7 @@ file_handler.setFormatter(formatter)
 # Add the handlers to the logger
 logger.addHandler(file_handler)
 
-WEBHOOK_URL = "https://cfi.app.n8n.cloud/webhook/ff77dedf-f609-4cd3-ba0a-8e3300831c99"
+WEBHOOK_URL = "https://vendoerp.app.n8n.cloud/webhook-test/ff77dedf-f609-4cd3-ba0a-8e3300831c99"
 TOPIC_SEPARATOR = '|'
 
 chat_histories = {}
