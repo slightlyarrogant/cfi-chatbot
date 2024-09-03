@@ -22,7 +22,7 @@ CFI Chatbot to interaktywna aplikacja webowa służąca do udzielania informacji
 
 1. Sklonuj repozytorium:
    ```
-   git clone https://github.com/twoja-nazwa-uzytkownika/cfi-chatbot.git
+   git clone https://github.com/slightlyarrogant/cfi-chatbot.git
    cd cfi-chatbot
    ```
 
